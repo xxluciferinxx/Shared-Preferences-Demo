@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">preferences</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    <string name="logged_out">Logged Out</string>
+    <string name="logged_in"> Logged In</string>
+</resources>
